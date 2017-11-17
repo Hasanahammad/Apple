@@ -1,0 +1,135 @@
+*
+{
+	margin:1px;
+}
+
+.container
+{
+	background: url(../images/apple-Iphone6-photo.jpg)no-repeat;
+	position: cover;
+	height: 1020px;
+	width: auto;
+	margin: 0 auto;
+
+
+}
+body{
+    font-family: 'Contrail One', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.logo{
+	position: fixed;
+}
+input[type=text] {
+    width: 200px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+    width: 20%;
+}
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display: inline;
+	margin-right:100px;
+	text-align: center;
+
+}
+nav ul li:hover{
+	cursor: pointer;
+	background-color:skyblue ;
+	transition: 0.75s;
+	-webkit-transition:0.75s;
+	-moz-transition:0.75s;
+	-o-transition:0.75s;
+	padding: 10px 10px;
+	box-shadow:0px -2px 20px 5px black;
+} 
+div h1 :hover{cursor: pointer;
+	background-color:skyblue ;
+	transition: 0.75s;
+	-webkit-transition:0.75s;
+	-moz-transition:0.75s;
+	-o-transition:0.75s;
+	padding: 10px 10px;
+	box-shadow:0px -2px 20px 5px black;
+
+}
+.f2{
+	background-color: cyan;
+	height: 100px;
+	width: 80%;
+	float: right;
+}
+
+.f5{
+	background-color: gray;
+	height: 360px;
+	width: 69%;
+	float: left;
+
+}
+.f6{
+	background-color: red;
+	height: 50px;
+	width: 30%;
+	float: right;
+
+}
+.f7{
+	background-color: red;
+	height: 50px;
+	width: 30%;
+	float: right;
+
+}
+.f8{
+	background-color: red;
+	height: 50px;
+	width: 30%;
+	float: right;
+
+}
+.f9{
+	background-color: red;
+	height: 50px;
+	width: 30%;
+	float: right;
+
+}
+.f10{
+	background-color: red;
+	height: 50px;
+	width: 30%;
+	float: right;
+
+}
+.f11{
+	background-color: red;
+	height: 50px;
+	width: 30%;
+	float: right;
+
+}
+.f12{
+	background-color: red;
+	height: 50px;
+	width: 30%;
+	float: right;
+
+}
+.f13{
+	background-color: blue;
+	height: 60px;
+	width: 100%;
+
+}
+
